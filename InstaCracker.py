@@ -171,7 +171,7 @@ def brute(q):
                 print("[!]Username: ", USER)
                 print("[!]Password: ", word)
                 print("---------------------------------------------------\n" + bcolors.ENDC)
-                found_flag = True
+                found_flag = Tr
                 q.queue.clear()
                 q.task_done()
 
